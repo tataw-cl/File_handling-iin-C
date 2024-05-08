@@ -1,0 +1,10 @@
+This is just some random text that we can use to read using the fgets function in file handling...
+I am writing to express my enthusiasm for the open source developer internship position at your company. With previous experience participating in open source programs like the All in Open Source program, I am excited about the opportunity to contribute to Ighala's innovative projects.
+
+During my involvement in the All in Open Source program, I was able to enhance my technical skills and collaborate with a diverse community of developers to create creative solutions. This experience has taught me the importance of teamwork, problem-solving, and the ability to adapt to different development environments.
+
+As a developer passionate about open source, I am thrilled at the prospect of working with Ighala's talented team and contributing my experience and knowledge. I am confident that my technical skills, passion for innovation, and dedication to delivering quality software make me an ideal candidate for this position.
+
+Thank you for considering my application, and I look forward to discussing how my experience and skills can contribute to the success of Ighala's projects. I am excited about the opportunity to learn and grow in such a stimulating environment as your company.
+
+Thank you for your time and consideration!
